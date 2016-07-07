@@ -37,6 +37,10 @@ public class calculate implements interfaceDemo {
 		Scanner sc = new Scanner(System.in);
 		Integer a, b, r, i;
 		
+		System.out.println("Okay");
+		a = 1;
+		b = 2;
+		r = 3;
 		System.out.println("Enter first number");
 		a = sc.nextInt();
 		System.out.println("Enter second number");
